@@ -1,5 +1,5 @@
 # Debloatme
-Remove unwanted apps and debloat your realme devices
+Remove unwanted apps and debloat your Realme devices
 
 -------
 How To:
