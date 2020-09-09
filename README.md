@@ -4,7 +4,7 @@ Remove unwanted apps and debloat your realme devices
 -------
 How To:
 -------
-First, enable Developer Options by going to:
+First, enable Developer Options by going to: \n
 <code>Settings > About Phone > Version > Tap Build number 5 Times</code>
 Then go to Developer Options and enable USB Debugging:
 <code>Settings > Additional Settings > Developer Options > USB Debugging</code>
